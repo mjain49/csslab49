@@ -1,0 +1,12 @@
+#i1
+{
+border: 10px solid transparent;
+padding: 15px;	
+}	
+
+#i2
+{
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 10px solid blue;
+}
